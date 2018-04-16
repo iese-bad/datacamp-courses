@@ -1,6 +1,6 @@
 ## Python Courses
 
-#### Intro to Python for Data Science
+### Intro to Python for Data Science
 
 Master the basics of data analysis in Python. Expand your skill set by learning scientific computing with `numpy`.
 
@@ -10,7 +10,7 @@ Master the basics of data analysis in Python. Expand your skill set by learning 
 
 Filip Schouwenaars
 
-#### Intermediate Python for Data Science
+### Intermediate Python for Data Science
 
 Level up your data science skills by creating visualizations using `matplotlib` and manipulating data frames with Pandas.
 
@@ -20,7 +20,7 @@ Level up your data science skills by creating visualizations using `matplotlib` 
 
 Filip Schouwenaars
 
-#### Deep Learning in Python
+### Deep Learning in Python
 
 Learn the fundamentals of neural networks and how to build deep learning models using `Keras 2.0`.
 
@@ -30,7 +30,7 @@ Learn the fundamentals of neural networks and how to build deep learning models 
 
 Dan Becker
 
-#### Python Data Science Toolbox (Part 1)
+### Python Data Science Toolbox (Part 1)
 
 Learn the art of writing your own functions in Python, as well as key concepts like scoping and error handling.
 
@@ -40,7 +40,7 @@ Learn the art of writing your own functions in Python, as well as key concepts l
 
 Hugo Bowne-Anderson
 
-#### Importing Data in Python (Part 1)
+### Importing Data in Python (Part 1)
 
 Learn to import data into Python from various sources, such as Excel, SQL, SAS and right from the web.
 
@@ -50,7 +50,7 @@ Learn to import data into Python from various sources, such as Excel, SQL, SAS a
 
 Hugo Bowne-Anderson
 
-#### Supervised Learning with scikit-learn
+### Supervised Learning with scikit-learn
 
 Learn how to build and tune predictive models and evaluate how well they will perform on unseen data.
 
@@ -60,7 +60,7 @@ Learn how to build and tune predictive models and evaluate how well they will pe
 
 Andreas Müller
 
-#### pandas Foundations
+### pandas Foundations
 
 Learn how to use the industry-standard pandas library to import, build, and manipulate `DataFrames`.
 
@@ -70,7 +70,7 @@ Learn how to use the industry-standard pandas library to import, build, and mani
 
 Dhavide Aruliah
 
-#### Python Data Science Toolbox (Part 2)
+### Python Data Science Toolbox (Part 2)
 
 Continue to build your modern Data Science skills by learning about iterators and list comprehensions.
 
@@ -80,7 +80,7 @@ Continue to build your modern Data Science skills by learning about iterators an
 
 Hugo Bowne-Anderson
 
-#### Introduction to Data Visualization with Python
+### Introduction to Data Visualization with Python
 
 Learn more complex data visualization techniques using `matplotlib` and `seaborn`.
 
@@ -90,7 +90,7 @@ Learn more complex data visualization techniques using `matplotlib` and `seaborn
 
 Bryan Van de Ven
 
-#### Cleaning Data in Python
+### Cleaning Data in Python
 
 This course will equip you with all the skills you need to clean your data in Python.
 
@@ -100,7 +100,7 @@ This course will equip you with all the skills you need to clean your data in Py
 
 Daniel Chen
 
-#### Importing Data in Python (Part 2)
+### Importing Data in Python (Part 2)
 
 Improve your Python data importing skills and learn to work with web and API data.
 
@@ -110,7 +110,7 @@ Improve your Python data importing skills and learn to work with web and API dat
 
 Hugo Bowne-Anderson
 
-#### Statistical Thinking in Python (Part 1)
+### Statistical Thinking in Python (Part 1)
 
 Build the foundation you need to think statistically and to speak the language of your data.
 
@@ -120,7 +120,7 @@ Build the foundation you need to think statistically and to speak the language o
 
 Justin Bois
 
-#### Introduction to Databases in Python
+### Introduction to Databases in Python
 In this course, you'll learn the basics of relational databases and how to interact with them.
 
 20,800 participants
@@ -129,7 +129,7 @@ In this course, you'll learn the basics of relational databases and how to inter
 
 Jason Myers
 
-#### Manipulating DataFrames with pandas
+### Manipulating DataFrames with pandas
 
 You will learn how to tidy, rearrange, and restructure your data using versatile `pandas` `DataFrames`.
 
@@ -139,7 +139,7 @@ You will learn how to tidy, rearrange, and restructure your data using versatile
 
 Dhavide Aruliah
 
-#### Network Analysis in Python (Part 1)
+### Network Analysis in Python (Part 1)
 
 This course will equip you with the skills to analyze, visualize, and make sense of networks using the NetworkX library.
 
@@ -149,7 +149,7 @@ This course will equip you with the skills to analyze, visualize, and make sense
 
 Eric Ma
 
-#### Unsupervised Learning in Python
+### Unsupervised Learning in Python
 
 Learn how to cluster, transform, visualize, and extract insights from unlabeled datasets using `scikit-learn` and `scipy`.
 
@@ -159,7 +159,7 @@ Learn how to cluster, transform, visualize, and extract insights from unlabeled 
 
 Benjamin Wilson
 
-#### Interactive Data Visualization with Bokeh
+### Interactive Data Visualization with Bokeh
 
 Learn how to create versatile and interactive data visualizations using `bokeh.
 
@@ -169,7 +169,7 @@ Learn how to create versatile and interactive data visualizations using `bokeh.
 
 Bryan Van de Ven
 
-#### Merging DataFrames with pandas
+### Merging DataFrames with pandas
 
 This course is all about the act of combining, or merging, `DataFrames`, an essential part your Data Scientist's toolbox.
 
@@ -179,7 +179,7 @@ This course is all about the act of combining, or merging, `DataFrames`, an esse
 
 Dhavide Aruliah
 
-#### Statistical Thinking in Python (Part 2)
+### Statistical Thinking in Python (Part 2)
 
 Learn to perform the two key tasks in statistical inference: parameter estimation and hypothesis testing.
 
@@ -189,7 +189,7 @@ Learn to perform the two key tasks in statistical inference: parameter estimatio
 
 Justin Bois
 
-#### Natural Language Processing Fundamentals in Python
+### Natural Language Processing Fundamentals in Python
 
 Learn fundamental natural language processing techniques using Python and how to apply them to extract insights from ...
 
@@ -199,7 +199,7 @@ Learn fundamental natural language processing techniques using Python and how to
 
 Katharine Jarmul
 
-#### Building Chatbots in Python
+### Building Chatbots in Python
 
 Learn the fundamentals of how to build conversational bots using rule-based systems as well as machine learning.
 
@@ -209,7 +209,7 @@ Learn the fundamentals of how to build conversational bots using rule-based syst
 
 Alan Nichol
 
-#### Machine Learning with the Experts: School Budgets
+### Machine Learning with the Experts: School Budgets
 
 Learn how to build a model to automatically classify items in a school budget.
 
@@ -219,7 +219,7 @@ Learn how to build a model to automatically classify items in a school budget.
 
 Peter Bull
 
-#### Data Types for Data Science
+### Data Types for Data Science
 
 Consolidate and extend your knowledge of Python data types such as lists, dictionaries, and tuples, leveraging them t...
 
@@ -229,7 +229,7 @@ Consolidate and extend your knowledge of Python data types such as lists, dictio
 
 Jason Myers
 
-#### Introduction to Time Series Analysis in Python
+### Introduction to Time Series Analysis in Python
 
 In this course you'll learn the basics of analyzing time series data.
 
@@ -239,7 +239,7 @@ In this course you'll learn the basics of analyzing time series data.
 
 Rob Reider
 
-#### Manipulating Time Series Data in Python
+### Manipulating Time Series Data in Python
 
 In this course you'll learn the basics of working with time series data.
 
@@ -249,7 +249,7 @@ In this course you'll learn the basics of working with time series data.
 
 Stefan Jansen
 
-#### Extreme Gradient Boosting with XGBoost
+### Extreme Gradient Boosting with XGBoost
 
 Learn the fundamentals of gradient boosting and build state-of-the-art machine learning models using XGBoost to solve...
 
@@ -259,7 +259,7 @@ Learn the fundamentals of gradient boosting and build state-of-the-art machine l
 
 Sergey Fogelson
 
-#### Introduction to PySpark
+### Introduction to PySpark
 
 Learn to implement distributed data management and machine learning in Spark using the `pyspark` package.
 
@@ -269,7 +269,7 @@ Learn to implement distributed data management and machine learning in Spark usi
 
 Nick Solomon
 
-#### Intro to Financial Concepts using Python
+### Intro to Financial Concepts using Python
 
 Using Python and `numpy, learn the most fundamental financial concepts.
 
@@ -279,7 +279,7 @@ Using Python and `numpy, learn the most fundamental financial concepts.
 
 Dakota Wixom
 
-#### Case Studies in Statistical Thinking
+### Case Studies in Statistical Thinking
 
 Take vital steps towards mastery as you apply your statistical thinking skills to real-world data sets and extract ac...
 
@@ -289,7 +289,7 @@ Take vital steps towards mastery as you apply your statistical thinking skills t
 
 Justin Bois
 
-#### Network Analysis in Python (Part 2)
+### Network Analysis in Python (Part 2)
 
 Analyze time series graphs, use bipartite graphs, and gain the skills to tackle advanced problems in network analytics.
 
@@ -299,7 +299,7 @@ Analyze time series graphs, use bipartite graphs, and gain the skills to tackle 
 
 Eric Ma
 
-#### Parallel Computing with Dask
+### Parallel Computing with Dask
 
 Learn how to take the Python workflows you currently have and easily scale them up to large datasets without the need...
 
