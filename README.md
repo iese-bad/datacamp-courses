@@ -1,4 +1,4 @@
-### This repo contains information and advice about DataCamp courses.
+### This repo contains information and advice about the DataCamp courses.
 
 <br> <br>
 
