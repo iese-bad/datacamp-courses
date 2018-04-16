@@ -161,7 +161,7 @@ Benjamin Wilson
 
 ### Interactive Data Visualization with Bokeh
 
-Learn how to create versatile and interactive data visualizations using `bokeh.
+Learn how to create versatile and interactive data visualizations using `bokeh`.
 
 14,000 participants
 
@@ -271,7 +271,7 @@ Nick Solomon
 
 ### Intro to Financial Concepts using Python
 
-Using Python and `numpy, learn the most fundamental financial concepts.
+Using Python and `numpy`, learn the most fundamental financial concepts.
 
 3,000 participants
 
