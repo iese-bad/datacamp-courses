@@ -316,3 +316,13 @@ Learn how to take the Python workflows you currently have and easily scale them 
 4 hours
 
 Dhavide Aruliah
+
+### Visualizing Time Series Data in Python
+
+Visualize seasonality, trends and other patterns in your time series data.
+
+300 participants
+
+4 hours
+
+Thomas Vincent
