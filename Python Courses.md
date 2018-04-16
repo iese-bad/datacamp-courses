@@ -219,6 +219,14 @@ Learn how to build a model to automatically classify items in a school budget.
 
 Peter Bull
 
+### Importing and Managing Financial Data in Python
+
+In this course, you'll learn how to import and manage financial data in Python using various tools and sources.
+
+9,300 participants
+
+5 hours Stefan Jansen
+
 ### Data Types for Data Science
 
 Consolidate and extend your knowledge of Python data types such as lists, dictionaries, and tuples, leveraging them t...
