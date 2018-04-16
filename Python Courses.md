@@ -1,4 +1,4 @@
-## Python Courses
+# Python Courses
 
 ### Intro to Python for Data Science
 
